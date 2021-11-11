@@ -1,0 +1,15 @@
+.today {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+h1 {
+  color: blue;
+}
+.search {
+  display: block;
+  margin: 5px 50px;
+  text-align: center;
+  position: fixed;
+  margin: 0;
+  width: 100%;
+}
